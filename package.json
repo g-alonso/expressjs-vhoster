@@ -1,0 +1,11 @@
+{
+    "name": "vhoster",
+    "description": "Vhoster - run multiples applications in multiples domains in one expressjs instance.",
+    "version": "1.0.0",
+    "homepage": "https://github.com/g-alonso/expressjs-vhoster",
+    "author": "Gabriel Alonso <galonso@bdev.com.ar>",
+    "dependencies": {
+        "express": "^4.7.2",
+        "vhost": "3.0.2"
+    }
+}
