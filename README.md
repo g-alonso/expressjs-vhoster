@@ -21,7 +21,7 @@ Permite correr diferentes aplicaciones ExpressJS en una sola instancia en un mis
 
     config.applicationsPath = '/home/gabriel/dvlp/projects/expressjs_applications';
 
-Directorio donde están las diferentes aplicaciones. Es necesario que cada aplicacion tenga un archivo manifest especificando el dominio y el punto de entrada a la aplicación. 
+Directorio donde están las diferentes aplicaciones. Es necesario que cada aplicación tenga un archivo manifest llamado `manifest.config.json` especificando el dominio y el punto de entrada a la aplicación. 
 Ejemplo:
 
 ```
